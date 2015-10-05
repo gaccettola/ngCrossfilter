@@ -1,7 +1,7 @@
 {
   "name": "ng-crossfilter-lodash",
   "buildName": "ngcrossfilterlodash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Usual Angular.js style filtering and sorting with a twist of Crossfilter for improved performance.",
   "main": "dist/ng-crossfilter.js",
   "scripts": {
